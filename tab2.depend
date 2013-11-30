@@ -1,0 +1,31 @@
+# depslib dependency file v1.0
+1385773480 source:c:\users\joseph griffin\documents\unitec\2013 - 2 - 2\programacion iii\tab2\lesson08.cpp
+	"SDL/SDL.h"
+	"SDL/SDL_image.h"
+	"SDL/SDL_ttf.h"
+	<string>
+	"Personaje.h"
+	<vector>
+	"Position.h"
+	"SDL/SDL_mixer.h"
+
+1385774034 source:c:\users\joseph griffin\documents\unitec\2013 - 2 - 2\programacion iii\tab2\personaje.cpp
+	"Personaje.h"
+
+1385766628 c:\users\joseph griffin\documents\unitec\2013 - 2 - 2\programacion iii\tab2\personaje.h
+	"SDL/SDL.h"
+	"SDL/SDL_image.h"
+	"SDL/SDL_ttf.h"
+	<string>
+	<sstream>
+	<vector>
+	<cmath>
+	<cstdlib>
+	"SDL/SDL_mixer.h"
+	"Position.h"
+
+1385595318 c:\users\joseph griffin\documents\unitec\2013 - 2 - 2\programacion iii\tab2\position.h
+
+1385595318 source:c:\users\joseph griffin\documents\unitec\2013 - 2 - 2\programacion iii\tab2\position.cpp
+	"Position.h"
+
